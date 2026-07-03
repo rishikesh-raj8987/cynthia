@@ -59,3 +59,10 @@ html,body{
     text-transform: uppercase;
     font-size: 12px;
 }
+#smallheadings{
+    font-size: 2vw;
+    margin-top: 150px;
+    text-align: right;
+    text-transform: uppercase;
+    padding-right: 20px;
+}
