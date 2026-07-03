@@ -48,4 +48,14 @@ html,body{
 }
 #heading #secondheading{
     margin-left:100px ;
+   
+}
+.blocktext{
+    /* background-color: blueviolet; */
+    width: fit-content;
+}
+.blocktext h5{
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 12px;
 }
